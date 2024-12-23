@@ -1,13 +1,20 @@
 {
-  "user":[
-    {
-      "id":1,
-      "name":"john"
-},
-{ "id": 2, "name": "Jane Doe" },
-{ "id": 3, "name": "Jimmy Doe" }
 
-  ],
+ "todos":[
+  {
+    "id":1,
+    "task":"Learn react"
+  },
+  {
+    "id":1,
+    "task":"Learn json"
+  },
+  {
+    "id":1,
+    "task":"Learn glicth"
+  }
+
+ ]
 
 
 
